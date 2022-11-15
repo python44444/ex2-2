@@ -36,4 +36,3 @@ def main(text):
 
 
 main(text)
-# main("平泉　最高")
